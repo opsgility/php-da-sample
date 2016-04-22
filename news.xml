@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>DAW Home Page</title>
+    <link>http://contosoweb.azurewebsites.net/</link>
+    <description>News Feed about DAW</description>
+    <dc:language>en-us</dc:language>
+    <dc:creator>admin@daw.com</dc:creator>
+    <dc:rights>Copyright 2014 DAW</dc:rights>
+    
+    <item>
+      <title>Feed 1</title>
+      <link>/news/feed1</link>
+      <description>Nic and Tristan Puehse, twin teen skateboarding phenoms, gave up boards two years ago and have set their sites on becoming doubles tennis champions; brothers say they became bored with skateboarding, which they had done since age 6.</description>
+      <pubDate>2012-01-05 12:00:30</pubDate>
+    </item>
+    
+    <item>
+      <title>Feed 2</title>
+      <link>/news/feed2</link>
+      <description>Neighborhood Joint column on Park Delicatessen, deli-themed florist and skateboard shop in Crown Heights, Brooklyn, that attracts unconventional clientele with its unconventional wares</description>
+      <pubDate>2012-02-05 12:00:30</pubDate>
+    </item>
+
+    <item>
+      <title>Feed 3</title>
+      <link>/news/feed3</link>
+      <description>Street skateboarding is thriving in New York City, despite dangers of navigating city streets; recent fatal accidents in the Bronx and Queens have not deterred traffic-dodging riders of longboards in city.</description>
+      <pubDate>2012-03-05 12:00:30</pubDate>
+    </item>
+
+    <item>
+      <title>Feed 4</title>
+      <link>http://skateboarding.transworld.net/1000197850/videos/aidan-campbell-knows/</link>
+      <description>Aidan Campbell comes through with the newest clip for the Thunder 149IIs. Check out the clip and interview with Aidan</description>
+      <pubDate>2014-05-13 10:00:30</pubDate>
+    </item>
+
+    <item>
+      <title>Feed 5</title>
+      <link>/news/feed5</link>
+      <description>Riverside Skate Park, which had fallen into disrepair, was designed in 1990s by New York skateboarding pioneer Andy Kessler, who died in 2009; friends of Kessler took on refurbishing project in his honor.</description>
+      <pubDate>2012-05-05 12:00:30</pubDate>
+    </item>
+
+    <item>
+      <title>Feed 6</title>
+      <link>/news/feed6</link>
+      <description>Street League, whose Super Crown World Championship will be broadcast live on ESPN2, has elevated street skateboarding contests to dizzying new heights; many skateboarders, mindful of the sport’s counter-cultural roots, would prefer that skateboarding retain its sideshow identity; others argue that skateboarding is not a sport at all and should not be treated as if it were basketball or football.</description>
+      <pubDate>2012-06-05 12:00:30</pubDate>
+    </item>
+    
+    <item>
+      <title>Feed 7</title>
+      <link>/news/feed7</link>
+      <description>Some New Yorkers skateboard to work as a stay-fit strategy for health. street skateboarding contests to dizzying new heights; many skateboarders, mindful of the sport’s counter-cultural roots, would prefer that skateboarding retain its sideshow identity; others argue that skateboarding is not a sport at all and should not be treated as if it were basketball or football.</description>
+      <pubDate>2012-07-05 12:00:30</pubDate>
+    </item>
+  </channel>
+</rss>
