@@ -20,7 +20,7 @@
                 <div class="col-sm-4">&nbsp;</div>                
             </div>                
         </div>
-        <div class="row"><div class="col-sm-12 copyright"><span>2014 &copy Contoso All Rights Reserved</span></div></div>
+        <div class="row"><div class="col-sm-12 copyright"><span>2017 &copy Contoso All Rights Reserved</span></div></div>
     </footer>
 </div><!--/.container-->
 
