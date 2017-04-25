@@ -59,8 +59,7 @@ $(function () {
                    //console.log('inside if ');
 				   var host = location.protocol + '//' + location.host + '/';
                    var mainpage_link = '&nbsp;&nbsp; <a href="'+host+'"> click here</a>';
-                   jQuery('#working_status').html(response.updatemsg + mainpage_link);
-                   $("#ajaxBar").html('');
+                   jQuery('#working_status').html('Completed: ' + mainpage_link);
                 }else if(!response.isInstallComplete){
                   // console.log('inside if else');
                     if(response.message == 'Twitter mining container created successfully.'){                        
