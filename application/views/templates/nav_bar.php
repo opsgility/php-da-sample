@@ -16,12 +16,14 @@
                     <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" title="Login" id="login-link">Login</a>
                     <ul class="dropdown-menu sign_in">
                         <li id="loginHint" class="alert alert-success" style="display:none;margin: 0px 0px 10px 0px;padding: 5px 5px 5px 5px;width: 95%;">Please login to start new discussion</li>
-                        <li>
+                        <!--
+						<li>
                             <button onclick="location.href='<?php echo base_url()?>users/googleLogin';" class="btn btn-google-plus" title="Login using Google"><i class="fa fa-google-plus"></i></button>
                             <button onclick="location.href='<?php echo base_url()?>users/facebookLogin';" class="btn btn-facebook" title="Login using Facebook"><i class="fa fa-facebook"></i></button>
                             <button onclick="location.href='<?php echo base_url()?>users/twitterLogin';" class="btn btn-twitter" title="Login using Twitter"><i class="fa fa-twitter"></i></button>
                             <button onclick="location.href='<?php echo base_url()?>users/microsoftLogin';" class="btn btn-stackexchange" title="Login using Mircosoft Live"><i class="fa fa-windows"></i></button>
                         </li>
+						-->
                         <li role="presentation" class="divider"></li>
                         <li>
                             <div class="container-fluid" id="login-form-div">
@@ -65,10 +67,12 @@
                     <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown" title="Sign Up">Sign Up</a>
                         <ul class="dropdown-menu" id="signup-dropdown-menu">
                             <li>
+							<!--
                                 <button onclick="location.href='<?php echo base_url()?>users/googleLogin';" class="btn btn-google-plus" title="Sign up using Google"><i class="fa fa-google-plus"></i></button>
                                 <button onclick="location.href='<?php echo base_url()?>users/facebookLogin';" class="btn btn-facebook" title="Sign up using Facebook"><i class="fa fa-facebook"></i></button>
                                 <button onclick="location.href='<?php echo base_url()?>users/twitterLogin';" class="btn btn-twitter" title="Sign up using Twitter"><i class="fa fa-twitter"></i></button>
                                 <button onclick="location.href='<?php echo base_url()?>users/microsoftLogin';" class="btn btn-stackexchange" title="Sign up using Mircosoft Live"><i class="fa fa-windows"></i></button>
+							-->
                                 <button onclick="location.href='<?php echo base_url()?>users/signup';" class="btn btn-stackexchange" title="Sign up using Email"><i class="fa fa-stackexchange">@</i></button>
                             </li>
                         </ul>

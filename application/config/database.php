@@ -48,7 +48,7 @@
 $active_group = ENVIRONMENT;
 $active_record = TRUE;
 
-$DefaultConnection = getenv('MYSQLCONNSTR_DefaultConnection');
+$DefaultConnection = getenv('MYSQLCONNSTR_localdb');
 $DefaultConnection = str_replace(";", "&", $DefaultConnection);
 $DefaultConnection = str_replace("Data Source=", "DataSource=", $DefaultConnection);
 $DefaultConnection = str_replace("User Id=", "UserId=", $DefaultConnection);

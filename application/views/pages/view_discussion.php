@@ -48,6 +48,7 @@
                                     <textarea class="form-control" name="content" id="content" placeholder="Content"></textarea>
                                 </div>
                             </div>
+							<!--
                             <div class="form-group">
                                 <label for="mediaFile" class="col-sm-2 control-label">Attachment:</label>
                                 <div style="position: relative;">
@@ -65,6 +66,7 @@
                                     <input type="text" class="form-control" name="mediaDescription" id="mediaDescription" placeholder="Description" value="" />
                                 </div>
                             </div>
+							-->
                             <div class="form-group">
                                 <div class="col-sm-offset-2 col-sm-10">
                                     <button type="submit" class="btn btn-primary">Submit</button>

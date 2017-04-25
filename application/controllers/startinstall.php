@@ -92,10 +92,11 @@ class Startinstall extends CI_Controller {
         }
         
 		sleep(30);
-        $xhrResult['isInstallComplete'] = false;
-        $xhrResult['url'] = base_url()."startinstall/uploadvideosetone";
-        $xhrResult['message'] = "AZURE Containers created successfully";
-        $xhrResult['updatemsg'] = "Uploading videos ...";
+        //$xhrResult['isInstallComplete'] = false;
+		$xhrResult['isInstallComplete'] = true;
+        //$xhrResult['url'] = base_url()."startinstall/uploadvideosetone";
+        $xhrResult['message'] = "Application Setup Complete";
+        //$xhrResult['updatemsg'] = "Uploading videos ...";
         echo json_encode($xhrResult);        
     }
 

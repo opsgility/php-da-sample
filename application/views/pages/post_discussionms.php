@@ -16,6 +16,7 @@
                     <label for="content" class="col-sm-2 control-label">Content</label>
                     <div class="col-sm-10"><textarea class="form-control" name="content" id="content" placeholder="Content"></textarea></div>
                 </div>
+				<!--
                 <div class="form-group">
                     <label for="mediaFile" class="col-sm-2 control-label">Media</label>
                     <div style="position:relative;">
@@ -33,6 +34,7 @@
                     <label for="mediaDescription" class="col-sm-2 control-label">Description</label>
                     <div class="col-sm-10"><input type="text" class="form-control" name="mediaDescription" id="mediaDescription" placeholder="Description" /></div>
                 </div>
+				-->
                 <div class="form-group">
                     <div class="col-sm-offset-2 col-sm-10">
                         <button type="submit" class="btn btn-primary" id="btnSubmit">Post</button>
