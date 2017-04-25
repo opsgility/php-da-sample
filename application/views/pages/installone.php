@@ -57,7 +57,8 @@ $(function () {
                 if(response.isInstallComplete){
                    //reload.href = base_url;
                    //console.log('inside if ');
-                   var mainpage_link = '&nbsp;&nbsp; <a href="'+base_url+'"> click here</a>';
+				   var host = location.protocol + '//' + location.host + '/';
+                   var mainpage_link = '&nbsp;&nbsp; <a href="'+host+'"> click here</a>';
                    jQuery('#working_status').html(response.updatemsg + mainpage_link);
                    $("#ajaxBar").html('');
                 }else if(!response.isInstallComplete){
