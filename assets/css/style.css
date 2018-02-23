@@ -252,7 +252,6 @@ ul.thumb_image_list li {
 }
 .discussion-panel-title {
     background: rgb(235, 39, 12) url("/assets/images/coomunity-graphics.png") 95% 95%;
-    cursor:pointer;
     background-repeat: no-repeat;
 }
 

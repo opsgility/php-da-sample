@@ -57,7 +57,7 @@
             </div>
             
             <div class="col-lg-4 col-md-4">
-                <div class="discussion-panel-title" onclick="location.href='<?php echo base_url(); ?>community';">
+                <div class="discussion-panel-title">
                     <div class="discussion-panel-title-icon"></div>
                     <div class="discussion-panel-title-caption"> Community </div>
                 </div>
