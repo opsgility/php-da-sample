@@ -30,6 +30,7 @@ https://openclipart.org/detail/277086/female-avatar-2
 https://openclipart.org/detail/277081/male-avatar
 
 
+
 --------------------------------
 contosoimages
 --------------------------------
@@ -98,8 +99,13 @@ https://www.pexels.com/photo/man-in-black-tank-top-skateboarding-wearing-helmet-
 
 
 
+https://www.pexels.com/photo/man-in-white-shirt-on-black-skateboard-doing-tricks-175769/
 
---------------------------------
+https://www.pexels.com/photo/action-active-activity-adult-415188/
+
+
+
+-------------------------------
 video
 --------------------------------
 
@@ -119,8 +125,17 @@ resp_1.3gp -> resp_1.mp4
 https://videos.pexels.com/videos/person-tying-his-shoes-857973
 
 
+-------------------------------
+OTHER IMAGES
+-------------------------------
 
+https://openclipart.org/detail/13808/land-recreation-symbols-22
 
+https://www.pexels.com/photo/brown-skateboard-on-concrete-road-131014/
+
+https://pixabay.com/en/tire-black-rim-rubber-design-33517/
+
+https://commons.wikimedia.org/wiki/File:Skateboard-truck.jpg
 
 
 
